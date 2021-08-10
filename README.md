@@ -8,4 +8,4 @@
 		'username' => 'root',
 		'password' => 'root',
 		'database' => 'prueba_konecta',
-3. Ejecutar la siguiente url: http://localhost/codeigniter/public/
+3. Ejecutar la siguiente url: http://localhost/NOMBRE_CARPETA/public/
